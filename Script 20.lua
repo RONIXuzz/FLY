@@ -476,7 +476,7 @@ local function playSplash()
     crown.BackgroundTransparency = 1
     crown.Font = Enum.Font.GothamBold
     crown.TextSize = 60
-    crown.Text = "♛"
+    crown.Text = "💫"
     crown.TextColor3 = Color3.fromRGB(130, 185, 255)
     crown.Parent = logo
     local cStroke = Instance.new("UIStroke")
@@ -546,7 +546,7 @@ local function playSplash()
         s.BackgroundTransparency = 1
         s.Font = Enum.Font.GothamBold
         s.TextSize = 18
-        s.Text = "✦"
+        s.Text = "✨"
         s.TextColor3 = Color3.fromRGB(150, 205, 255)
         s.TextTransparency = 1
         s.Parent = logo
